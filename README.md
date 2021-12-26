@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This website showcases potsky's digital creations from 90's to now created on Amiga and on Mac OS X. 
+This website showcases potsky's digital creations from 90's to now created on Amiga and on Mac OS X.
 
 ## Dev
 
@@ -29,8 +29,8 @@ Via Github Action
 
 The website is served on IPFS:
 
-- <ipfs://potsky.eth> with *ENS Domain*
-- <ipns://nft.potsky.com> with *DNSLink*
+- <ipfs://potsky.eth> with _ENS Domain_
+- <ipns://nft.potsky.com> with _DNSLink_
 
 The website is served on HTTP:
 
