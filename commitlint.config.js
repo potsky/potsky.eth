@@ -13,8 +13,8 @@ module.exports = {
         'contents',
         'plugins',
         'settings',
-        'ui'
-      ]
-    ]
-  }
+        'ui',
+      ],
+    ],
+  },
 }
