@@ -1,8 +1,6 @@
 <template>
   <div>
-    <div
-      class="grid place-items-center h-screen"
-    >
+    <div class="grid place-items-center h-screen">
       <div
         class="mx-8 sm:max-w-md sm:mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl"
       >
@@ -39,6 +37,6 @@
 
 <script>
 export default {
-  name: 'WelcomeCard'
+  name: 'WelcomeCard',
 }
 </script>
